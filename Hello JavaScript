@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Hello Javascript</title>
+</head>
+<body>
+<script type="text/javascript">
+document.write("<p>Hello Javascript</p>");
+</script>
+</body>
+</html>
